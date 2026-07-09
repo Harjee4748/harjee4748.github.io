@@ -1,3 +1,15 @@
-theme: jekyll-theme-minimal
-title: probeadds'
-description: nyobian ngadamel github page cenah.
+title: Satrio Adi Prabowo
+description: Minimal profile and notes.
+author: Satrio Adi Prabowo
+email: prabowo.satrioadi@gmail.com
+github_username: probeadd
+linkedin_url: https://www.linkedin.com/in/satrioadiprabowo/
+
+permalink: /posts/:title/
+
+# Exclude tooling files from the built site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

@@ -1,0 +1,10 @@
+# Blog posts go here.
+#
+# Filename convention: YYYY-MM-DD-title.md
+# Front matter:
+#   ---
+#   layout: post
+#   title: Your title
+#   ---
+#
+# Example: 2026-07-09-hello-world.md  ->  published at /posts/hello-world/
